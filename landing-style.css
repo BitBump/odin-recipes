@@ -1,0 +1,29 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.title-and-links{
+
+    width: 400px;
+    background-color: lightblue;
+    padding: 5px;
+
+}
+
+.links{
+
+    
+    background-color: aquamarine;
+
+}
+
+li{
+    padding: 5px;
+    
+}
+
+a:hover{
+
+    background-color: white;
+
+}
